@@ -20,15 +20,13 @@ A professional, responsive website for **KFSphere** – a restaurant in Bole, Ad
 - Formspree (email handling)
 
 ## How to Run Locally
-1. Clone the repo: `git clone https://github.com/your-username/FUTURE_FS_03.git`
+1. Clone the repo: `git clone https://github.com/kingfillari/FUTURE_FS_03.git`
 2. Open `index.html` in your browser.
 
 ## Pitch & Business Impact
 See [PITCH.md](./PITCH.md) for the full story of how I approached the owner and the value this website brings.
 
-## Screenshots
-![Homepage](./screenshots/home.png)
-![Menu](./screenshots/menu.png)
+
 
 ## Author
 **Fillimon Gebre** – [LinkedIn](https://www.linkedin.com/in/fillimon-gebre/)  
