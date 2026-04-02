@@ -3,8 +3,7 @@
 A professional, responsive website for **KFSphere** – a restaurant in Bole, Addis Ababa. Built as part of the Future Interns Full Stack Web Development internship.
 
 ## Live Demo
-[Add your Netlify / GitHub Pages URL here]
-
+https://github.com/kingfillari/FUTURE_FS_03.git
 ## Features
 - Fully responsive (mobile, tablet, desktop)
 - Working contact form (via Formspree)
